@@ -50,7 +50,7 @@ Model Name      | HP ProBook 440 G7 | ✅
 CPU              | Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz Comet Lake | ✅
 RAM           | 8 GB DDR4 | ✅
 Internal Graphics Card | Intel(R) UHD Graphics 620 | ✅
-Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ❌
+Wi-Fi             | Intel AX201 Wi-Fi 6 (802.11ax) | ✅
 Ethernet          | Realtek RTL8111/8168/8411 | ✅
 Audio       | Realtek ALC 236 | ✅
 Touchpad | SYNA30A5 | ✅
