@@ -1,7 +1,7 @@
 <h1 align="center"> macOS on HP ProBook 440 G7 </h1>
 
 <p align="center">
-  <img src="https://github.com/yusufklncc/HP-ProBook-440-G7-Hackintosh/tree/main/Resources/hp-probook-440-g7.png" alt="ProBook 440 G7" width="750">
+  <img src="https://github.com/yusufklncc/HP-ProBook-440-G7-Hackintosh/blob/main/Resources/hp-probook-440-g7.png" alt="ProBook 440 G7" width="750">
 </p>
 
 <h4 align="center"> OpenCore config for Hackintosh Lenovo Thinkpad E570 </h4>
