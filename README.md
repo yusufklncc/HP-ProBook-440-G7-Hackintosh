@@ -40,7 +40,7 @@
 
 ### Sonoma
 <p align="center">
-  <img src="https://github.com/yusufklncc/HP-ProBook-440-G7-Hackintosh/tree/main/Resources/macOS%20Desktop/macos-sonoma.png">
+  <img src="https://github.com/yusufklncc/HP-ProBook-440-G7-Hackintosh/blob/main/Resources/macOS%20Desktop/macos-sonoma.png">
 </p>
 
 ## Original Hardware  💻
