@@ -48,7 +48,7 @@ Type | Spec | Status
 :---------|:---------|:----------
 Model      | HP ProBook 440 G7 | ✅
 Variant      | 869D | ✅
-BIOS      | S71 Ver. 01.19.00 08/02/2020 | ✅
+BIOS      | S71 Ver. 01.19.00 09/28/2023 | ✅
 CPU              | Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz Comet Lake | ✅
 RAM           | 8 GB DDR4 | ✅
 Internal Graphics Card | Intel(R) CometLake-U GT2 (UHD Graphics 620) | ✅
